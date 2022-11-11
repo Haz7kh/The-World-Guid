@@ -1,0 +1,396 @@
+
+[
+
+{
+"id": 1,
+"venue": "Al Bayt Stadium",
+"home_team_country": "QAT",
+"away_team_country": "ECU",
+"location": "Al Khor",
+},
+{
+"id": 2,
+"venue": "Khalifa International Stadium",
+"home_team_country": "ENG",
+"away_team_country": "IRN",
+"location": "Ar-Rayyan"
+
+},
+{
+"id": 3,
+"venue": "Al Thumama Stadium",
+"home_team_country": "SEN",
+"away_team_country": "NED",
+"location": "Doha",
+},
+
+{
+"id": 4,
+"venue": "Ahmad Bin Ali Stadium",
+"home_team_country": "USA",
+"away_team_country": "WAL",
+"location": "Ar-Rayyan",
+},
+
+{
+"id": 5,
+"venue": "Lusail Stadium",
+"home_team_country": "ARG",
+"away_team_country": "KSA",
+"location": "Al Daayen",
+},
+
+{
+"id": 6,
+"venue": "Education City Stadium",
+"home_team_country": "DEN",
+"away_team_country": "TUN",
+"location": "Doha",
+},
+
+{
+"id": 7,
+"venue": "Stadium 974",
+"home_team_country": "MEX",
+"away_team_country": "POL",
+"location": "Doha",
+
+},
+
+{
+"id": 8,
+"venue": "Al Janoub Stadium",
+"home_team_country": "FRA",
+"away_team_country": "AUS",
+"location": "Al Wakrah",
+
+},
+
+{
+"id": 9,
+"venue": "Al Bayt Stadium",
+"home_team_country": "MAR",
+"away_team_country": "CRO",
+"location": "Al Khor",
+
+},
+{
+"id": 10,
+"venue": "Khalifa International Stadium",
+"home_team_country": "GER",
+"away_team_country": "JPN",
+"location": "Ar-Rayyan"
+},
+
+{
+"id": 11,
+"venue": "Al Thumama Stadium",
+"home_team_country": "ESP",
+"away_team_country": "CRC",
+"location": "Doha"
+
+
+},
+
+{
+"id": 12,
+"venue": "Ahmad Bin Ali Stadium",
+"home_team_country": "BEL",
+"away_team_country": "CAN",
+"location": "Ar-Rayyan"
+
+},
+
+{
+"id": 13,
+"venue": "Al Janoub Stadium",
+
+"home_team_country": "SUI",
+"away_team_country": "CMR",
+"location": "Al Wakrah"
+
+},
+
+{
+"id": 14,
+"venue": "Education City Stadium",
+"home_team_country": "URU",
+"away_team_country": "KOR",
+"location": "Doha",
+
+},
+
+{
+"id": 15,
+"venue": "Stadium 974",
+"home_team_country": "POR",
+"away_team_country": "GHA",
+"location": "Doha"
+},
+
+{
+"id": 16,
+"venue": "Lusail Stadium",
+"home_team_country": "BRA",
+"away_team_country": "SRB",
+"location": "Al Daayen"
+
+},
+
+{
+"id": 17,
+"venue": "Ahmad Bin Ali Stadium",
+"home_team_country": "WAL",
+"away_team_country": "IRN",
+"location": "Ar-Rayyan",
+},
+
+{
+"id": 18,
+"venue": "Al Thumama Stadium",
+"home_team_country": "QAT",
+"away_team_country": "SEN",
+"location": "Doha"
+},
+
+{
+"id": 19,
+"venue": "Khalifa International Stadium",
+"home_team_country": "NED",
+"away_team_country": "ECU",
+"location": "Ar-Rayyan",
+},
+
+{
+"id": 20,
+"venue": "Al Bayt Stadium",
+"home_team_country": "ENG",
+"away_team_country": "USA",
+"location": "Al Khor"
+
+},
+
+{
+"id": 21,
+"venue": "Al Janoub Stadium",
+"home_team_country": "TUN",
+"away_team_country": "AUS",
+"location": "Al Wakrah",
+},
+
+{
+"id": 22,
+"venue": "Education City Stadium",
+"home_team_country": "POL",
+"away_team_country": "KSA",
+"location": "Doha"
+},
+
+{
+"id": 23,
+"venue": "Stadium 974",
+"home_team_country": "FRA",
+"away_team_country": "DEN",
+"location": "Doha"
+},
+
+{
+"id": 24,
+"venue": "Lusail Stadium",
+"home_team_country": "ARG",
+"away_team_country": "MEX",
+"location": "Al Daayen"
+},
+
+{
+"id": 25,
+"venue": "Ahmad Bin Ali Stadium",
+"home_team_country": "JPN",
+"away_team_country": "CRC",
+"location": "Ar-Rayyan"
+},
+
+{
+"id": 26,
+"venue": "Al Thumama Stadium",
+"home_team_country": "BEL",
+"away_team_country": "MAR",
+"location": "Doha"
+},
+
+{
+"id": 27,
+"venue": "Khalifa International Stadium",
+"home_team_country": "CRO",
+"away_team_country": "CAN",
+"location": "Ar-Rayyan"
+},
+
+{
+"id": 28,
+"venue": "Al Bayt Stadium",
+"home_team_country": "ESP",
+"away_team_country": "GER",
+"location": "Al Khor"
+},
+
+{
+"id": 29,
+"venue": "Al Janoub Stadium",
+"home_team_country": "CMR",
+"away_team_country": "SRB",
+"location": "Al Wakrah"
+},
+
+{
+"id": 30,
+"venue": "Education City Stadium",
+"home_team_country": "KOR",
+"away_team_country": "GHA",
+"location": "Doha"
+},
+
+{
+"id": 31,
+"venue": "Stadium 974",
+"home_team_country": "BRA",
+"away_team_country": "SUI",
+"location": "Doha"
+},
+
+{
+"id": 32,
+"venue": "Lusail Stadium",
+"home_team_country": "POR",
+"away_team_country": "URU",
+"location": "Al Daayen"
+},
+
+{
+"id": 33,
+"venue": "Al Bayt Stadium",
+"home_team_country": "NED",
+"away_team_country": "QAT",
+"location": "Al Khor"
+},
+
+{
+"id": 34,
+"venue": "Khalifa International Stadium",
+"home_team_country": "ECU",
+"away_team_country": "SEN",
+"location": "Ar-Rayyan"
+},
+
+{
+"id": 36,
+"venue": "Al Thumama Stadium",
+"home_team_country": "IRN",
+"away_team_country": "USA",
+"location": "Doha"
+},
+
+{
+"id": 35,
+"venue": "Ahmad Bin Ali Stadium",
+"home_team_country": "WAL",
+"away_team_country": "ENG",
+"location": "Ar-Rayyan"
+},
+
+{
+"id": 37,
+"venue": "Al Janoub Stadium",
+"home_team_country": "AUS",
+"away_team_country": "DEN",
+"location": "Al Wakrah"
+},
+
+{
+"id": 38,
+"venue": "Education City Stadium",
+"home_team_country": "TUN",
+"away_team_country": "FRA",
+"location": "Doha"
+},
+
+{
+"id": 39,
+"venue": "Stadium 974",
+"home_team_country": "POL",
+"away_team_country": "ARG",
+"location": "Doha"
+},
+
+{
+"id": 40,
+"venue": "Lusail Stadium",
+"home_team_country": "KSA",
+"away_team_country": "MEX",
+"location": "Al Daayen"
+},
+
+{
+"id": 41,
+"venue": "Ahmad Bin Ali Stadium",
+"home_team_country": "CRO",
+"away_team_country": "BEL",
+"location": "Ar-Rayyan"
+},
+
+{
+"id": 42,
+"venue": "Al Thumama Stadium",
+"home_team_country": "CAN",
+"away_team_country": "MAR",
+"location": "Doha"
+},
+
+{
+"id": 43,
+"venue": "Khalifa International Stadium",
+"home_team_country": "JPN",
+"away_team_country": "ESP",
+"location": "Ar-Rayyan"
+},
+
+{
+"id": 44,
+"venue": "Al Bayt Stadium",
+"home_team_country": "CRC",
+"away_team_country": "GER",
+"location": "Al Khor"
+},
+
+{
+"id": 45,
+"venue": "Al Janoub Stadium",
+"home_team_country": "GHA",
+"away_team_country": "URU",
+"location": "Al Wakrah"
+},
+
+{
+"id": 46,
+"venue": "Education City Stadium",
+"home_team_country": "KOR",
+"away_team_country": "POR",
+"location": "Doha"
+},
+
+{
+"id": 48,
+"venue": "Lusail Stadium",
+"home_team_country": "CMR",
+"away_team_country": "BRA",
+"location": "Al Daayen"
+},
+
+{
+"id": 47,
+"venue": "Stadium 974",
+"home_team_country": "SRB",
+"away_team_country": "SUI",
+"location": "Doha"
+}
+]

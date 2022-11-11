@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>106774294620-qrsd689rujco92iv4789ttpij4mfjccb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.106774294620-qrsd689rujco92iv4789ttpij4mfjccb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBCaNm84ywLNWu56jdCK_p7r7IucmED0bo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>106774294620</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.haz7.The-World-Guid</string>
+	<key>PROJECT_ID</key>
+	<string>qatar-2022-9475a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qatar-2022-9475a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:106774294620:ios:1afb24ce11c48920953699</string>
+</dict>
+</plist>
